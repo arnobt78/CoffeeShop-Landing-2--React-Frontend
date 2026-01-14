@@ -1,5 +1,5 @@
 
-# Coffee Shop 2 Landing Page - React-Vite TailwindCSS Frontend Project
+# Coffee Shop 2 Landing Page - React, Vite, TailwindCSS Frontend Project
 
 A modern, responsive coffee shop landing page built with React, Vite, and Tailwind CSS. This project demonstrates best practices in React component structure, animation, and UI/UX, making it a great template for learning, customization, and real-world use.
 
