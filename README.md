@@ -1,12 +1,5 @@
 
-# Coffee Shop 2 - React-Vite TailwindCSS Project ☕️
-
-![Screenshot 2025-07-28 at 00 31 25](https://github.com/user-attachments/assets/fb885ac2-9e72-4630-a2f9-8e7e1dd526d6)
-![Screenshot 2025-07-28 at 00 32 10](https://github.com/user-attachments/assets/7775e932-35b6-4912-a5e9-46ec7bde2f52)
-![Screenshot 2025-07-28 at 00 32 32](https://github.com/user-attachments/assets/a4d2ebc3-abc2-433a-aa57-080d53d7ed8f)
-![Screenshot 2025-07-28 at 00 33 23](https://github.com/user-attachments/assets/05d561da-f8d3-4011-85f0-90c7014ee965)
-
----
+# Coffee Shop 2 Landing Page - React-Vite TailwindCSS Frontend Project
 
 A modern, responsive coffee shop landing page built with React, Vite, and Tailwind CSS. This project demonstrates best practices in React component structure, animation, and UI/UX, making it a great template for learning, customization, and real-world use.
 
@@ -17,7 +10,10 @@ A modern, responsive coffee shop landing page built with React, Vite, and Tailwi
 - **Live Demo:** [https://coffeeshop-arnob.vercel.app/](https://coffeeshop-arnob.vercel.app/)
 - **GitHub Repo:** [https://github.com/arnobt78/CoffeeShop-1--TailwindCSS-Fundamental-Project-7](https://github.com/arnobt78/CoffeeShop-1--TailwindCSS-Fundamental-Project-7)
 
----
+![Screenshot 2025-07-28 at 00 31 25](https://github.com/user-attachments/assets/fb885ac2-9e72-4630-a2f9-8e7e1dd526d6)
+![Screenshot 2025-07-28 at 00 32 10](https://github.com/user-attachments/assets/7775e932-35b6-4912-a5e9-46ec7bde2f52)
+![Screenshot 2025-07-28 at 00 32 32](https://github.com/user-attachments/assets/a4d2ebc3-abc2-433a-aa57-080d53d7ed8f)
+![Screenshot 2025-07-28 at 00 33 23](https://github.com/user-attachments/assets/05d561da-f8d3-4011-85f0-90c7014ee965)
 
 ## Table of Contents
 
